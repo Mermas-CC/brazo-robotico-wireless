@@ -1,4 +1,5 @@
 # Robotic Arm Controller - Wireless Control via Node.js Server
+#by ELMER, HANS, ALMIR, CARLOS
 
 Este proyecto permite controlar un brazo robótico de manera inalámbrica a través de un servidor basado en Node.js que opera en el puerto 3000. La solución utiliza comunicación inalámbrica para enviar comandos al brazo robótico, proporcionando un control fluido y en tiempo real.
 
